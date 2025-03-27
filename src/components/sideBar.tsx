@@ -30,9 +30,9 @@ export function SideBar() {
           <Typewriter
             options={{
               strings: [
-                "Textile Engineer",
                 "Full Stack Developer",
                 "UI/UX Developer",
+                "Textile Engineer",
               ],
               autoStart: true,
               loop: true,
@@ -45,7 +45,7 @@ export function SideBar() {
         {/* linkedin */}
         <div className="mt-4">
           <Link
-            href="https://www.linkedin.com/in/shahzaib-khan-b64b64334/"
+            href="https://www.linkedin.com/in/shahzaib-khan-574096323/"
             target="_blank"
             className="text-gray-600 hover:text-[#0A66C2]"
           >

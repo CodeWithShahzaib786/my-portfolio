@@ -46,7 +46,7 @@ const MobileCard = () => {
             {/* linkedin */}
             <div className="mt-4">
               <Link
-                href="https://www.linkedin.com/in/shahzaib-khan-b64b64334/"
+                href="https://www.linkedin.com/in/shahzaib-khan-574096323/"
                 target="_blank"
                 className="text-gray-600 hover:text-[#0A66C2]"
               >
